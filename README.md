@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 > I am a security researcher and currently a lead developer and co-founder at @Turin-Technology-LTDA.
 
